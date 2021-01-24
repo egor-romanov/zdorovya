@@ -11,6 +11,10 @@
     "start": "ts-node index.ts"
   },
   "dependencies": {
+    "@tensorflow-models/mobilenet": "^2.0.4",
+    "@tensorflow/tfjs": "^2.8.5",
+    "@tensorflow/tfjs-node": "^2.8.5",
+    "axios": "^0.21.1",
     "node-telegram-bot-api": "^0.51.0",
     "telegraf": "^4.0.1"
   },
